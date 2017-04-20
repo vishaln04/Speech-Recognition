@@ -1,2 +1,2 @@
 # SpeechRecognition
-Speech Science Project for Speech Recognition
+Android Appilcation for TTS
